@@ -1,0 +1,23 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+div.text {
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+}
+
+a#test {
+    display: none;
+}

@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(238,21,21);
+    color: black;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    font-weight:bold;
+    color: rgb(255, 203, 5);
+    border: rgb(52, 102, 175);
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(52, 102, 175);
+}
